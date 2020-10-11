@@ -1,2 +1,2 @@
 # Java-Poker-Game
-Java-Poker-Game
+Java class project
